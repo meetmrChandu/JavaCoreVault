@@ -1,4 +1,4 @@
-package basics;
+package Core.OOPS;
 
 // Demonstrates basic inheritance in Java
 

@@ -1,4 +1,4 @@
-package basics;
+package Core.Basics;
 
 // Demonstrates: 'this', 'super', and 'final' in Java
 class User {

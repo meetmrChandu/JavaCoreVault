@@ -1,4 +1,4 @@
-package basics;
+package Core.Basics;
 
 class Employee {
     void work() {

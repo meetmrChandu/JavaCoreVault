@@ -1,4 +1,4 @@
-package basics;
+package Core.Basics;
 
 public class TestStaticDemo {
     public static void main(String[] args) {

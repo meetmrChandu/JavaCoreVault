@@ -1,4 +1,4 @@
-package basics;
+package Core.OOPS;
 
 // Parent class
 class Shape {
